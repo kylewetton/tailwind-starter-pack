@@ -13,7 +13,7 @@ _This starter kit builds purged and minified CSS_
 
 Clone or fork starter pack
 
-`git clone tailwind-starter-pack`
+`git clone https://github.com/kylewetton/tailwind-starter-pack.git`
 
 Install dependencies
 
